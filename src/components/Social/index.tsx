@@ -9,13 +9,13 @@ export default function Social () {
 	return (
 		<Container>
 			<a href='https://github.com/nathahernandez'>
-				<img src='./src/assets/github.svg'/>
+				<img src={'./src/assets/github.svg'} />
 			</a>
 			<a href='https://www.instagram.com/natha.img/'>
-				<img src='./src/assets/instagram.svg'/>
+				<img src={'./src/assets/instagram.svg'} />
 			</a>
 			<a href='https://www.linkedin.com/in/natha-hernandez/'>
-				<img src='./src/assets/linkedin.svg'/>
+				<img src={'./src/assets/linkedin.svg'} />
 			</a>
 		</Container>
 	)
